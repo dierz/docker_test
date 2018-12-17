@@ -24,3 +24,4 @@ Guide:
 5) That's all! To get your unique id you should just run 'nextid gen'
 6) To stop your docker manually run : 'docker stack rm test && docker swarm leave --force'
 7) To uninstall this application run : '<your_folder/docker-test>/uninstall.sh'
+HELLO WORLD!
